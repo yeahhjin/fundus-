@@ -27,7 +27,7 @@ This repository includes:
 - **Overfitting tendencies** due to noisy and imbalanced dataset
 - Further **data curation and augmentation** are required for optimal validation performance
 
-## 🖼️ Example Image (Optional)
+## 🖼️ Example Image 
 <img width="2037" height="1039" alt="image" src="https://github.com/user-attachments/assets/469f7394-4352-46f4-a564-f8ee0694f2a3" />
 
 
